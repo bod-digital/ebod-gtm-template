@@ -1,0 +1,5 @@
+homepage: "https://bod.digital/"
+documentation: "https://github.com/bod-digital/ebod-gtm-template/blob/main/README.md"
+versions:
+  - sha: 79c92d60dc0bb44dd6d30ac883615a9a4556471d
+    changeNotes: Initial release.
